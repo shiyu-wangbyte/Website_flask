@@ -1,5 +1,5 @@
 # 安装配置
-## mysql配置：
+## MYSQL配置：
     1. 在服务器上安装mysql服务器，并且开启mysql数据库
     2. 创建用户shiyu, 并且修改用户的密码为Flask123!
     3. 在mysql软件中创建数据库：ci4tutorial
